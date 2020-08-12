@@ -2,4 +2,14 @@
     <string name="app_name">CoatCheck</string>
     <string name="coat_checker">Coat Checker</string>
     <string name="first_name">First Name</string>
+    <string name="add_patron">Add Patron</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="no_of_coats">No. of Coats</string>
+    <string name="addn_l_item">addn\'l Item</string>
+    <string name="john">John</string>
+    <string name="hancock">Hancock</string>
+    <string name="_1">1</string>
+    <string name="handbag">HandBag</string>
+    <string name="add_patron">Add Patron</string>
 </resources>
